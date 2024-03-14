@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.cruds.test.TestCalculatorService" time="0.084" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="E:\Applications\apache-maven-3.9.4\bin\calcwebapp-master\target\test-classes;E:\Applications\apache-maven-3.9.4\bin\calcwebapp-master\target\classes;C:\Users\ixs018\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\ixs018\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ixs018\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="Australia/Sydney"/>
+    <property name="os.name" value="Windows Server 2019"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="AU"/>
+    <property name="sun.boot.library.path" value="E:\Applications\Java\jdk17.0.7_7\bin"/>
+    <property name="sun.java.command" value="C:\Users\ixs018\AppData\Local\Temp\2\surefire5985578567833863109\surefirebooter-20240314123054033_3.jar C:\Users\ixs018\AppData\Local\Temp\2\surefire5985578567833863109 2024-03-14T12-30-53_814-jvmRun1 surefire-20240314123054033_1tmp surefire_0-20240314123054033_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\Applications\apache-maven-3.9.4\bin\calcwebapp-master\target\test-classes;E:\Applications\apache-maven-3.9.4\bin\calcwebapp-master\target\classes;C:\Users\ixs018\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\ixs018\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ixs018\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ixs018"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.home" value="E:\Applications\Java\jdk17.0.7_7"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\Applications\apache-maven-3.9.4\bin\calcwebapp-master"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\ixs018\AppData\Local\Temp\2\surefire5985578567833863109\surefirebooter-20240314123054033_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.7+7-LTS"/>
+    <property name="user.name" value="ixs018"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Corretto-17.0.7.7.1"/>
+    <property name="localRepository" value="C:\Users\ixs018\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-17/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ixs018\AppData\Local\Temp\2\"/>
+    <property name="sonar.token" value="squ_dc90a8290c3370c780c4326b9ef9b4ed2aa18292"/>
+    <property name="java.version" value="17.0.7"/>
+    <property name="user.dir" value="E:\Applications\apache-maven-3.9.4\bin\calcwebapp-master"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="E:\Applications\Java\jdk17.0.7_7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Oracle\product\19.0.0\client_1;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Centrify\Centrify Agent for Windows\;E:\Applications\Java\jdk17.0.7_7\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;E:\Applications\apache-maven-3.9.4\bin;C:\Users\ixs018\AppData\Local\Microsoft\WindowsApps;C:\Git\cmd;C:\Users\ixs018\.dotnet\tools;C:\Users\ixs018\AppData\Roaming\npm;E:\Applications\apache-maven-3.9.4\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="17.0.7+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testAdd" classname="com.cruds.test.TestCalculatorService" time="0.004"/>
+  <testcase name="testNull" classname="com.cruds.test.TestCalculatorService" time="0.0"/>
+</testsuite>
